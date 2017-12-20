@@ -10,7 +10,7 @@
   <PropertyGroup>
     <Title>Discord.Addons.WebSocketSharp</Title>
     <Authors>Jarl Gullberg</Authors>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Description>websocket-sharp-based provider for Discord.Net, allowing it to run under Mono.</Description>
     <Copyright>Copyright Jarl Gullberg 2017</Copyright>
   </PropertyGroup>
