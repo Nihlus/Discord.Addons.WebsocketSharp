@@ -8,14 +8,14 @@
     <LangVersion>7.1</LangVersion>
   </PropertyGroup>
   <PropertyGroup>
-    <Title>Discord.Addons.WebsocketSharp</Title>
+    <Title>Discord.Addons.WebSocketSharp</Title>
     <Authors>Jarl Gullberg</Authors>
     <Version>1.0.0</Version>
     <Description>websocket-sharp-based provider for Discord.Net, allowing it to run under Mono.</Description>
     <Copyright>Copyright Jarl Gullberg 2017</Copyright>
   </PropertyGroup>
   <PropertyGroup>
-    <PackageId>Discord.Addons.WebsocketSharp</PackageId>
+    <PackageId>Discord.Addons.WebSocketSharp</PackageId>
     <PackageLicenseUrl>https://www.gnu.org/licenses/lgpl-3.0.en.html</PackageLicenseUrl>
     <PackageReleaseNotes>Initial release.</PackageReleaseNotes>
     <PackageTags>discord.net;cross-platform;mono;websocket;addon</PackageTags>
